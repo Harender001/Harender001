@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Harender</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil)">
+<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTUwbzRqZ3d5OWFiZXBwZ3M4NHZ0aGtyY2Rmb241aTFlb215dzc0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)">
 
 - 🔭 I’m currently working on **Something so cool even my compiler's impressed**
 
