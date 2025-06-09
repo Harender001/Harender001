@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **harendersin82880@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Vr4vNWZ49LFRwXeTNfzYrbEpo7bsNo-U/view?usp=drive_link](https://drive.google.com/file/d/1Vr4vNWZ49LFRwXeTNfzYrbEpo7bsNo-U/view?usp=drive_link)
+- 📄 Know about my experiences [https://shorturl.at/pbmdZ]
 
 - ⚡ Fun fact **I think I’m funny, my compiler disagrees. But at least my rubber duck thinks I’m hilarious.**
 
