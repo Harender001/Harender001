@@ -6,9 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/Harender001/Harender001/blob/df9c69705cc7ca052a5f7e7805b17b9e4f5e19aa/img/Code%20Hacking%20GIF%20by%20Pizza%20Ninjas.gif">
 - 🔭 I’m currently working on **Something so cool even my compiler's impressed**
 
-- 🌱 I’m currently learning **Next.js, TailwindCSS, and LLM integrations**
-
-- 💬 Ask me about **React, Vue, GSAP—or how I once spent 3 hours debugging a missing semicolon.**
+- 🌱 I’m currently learning **Next.js, TailwindCSS, and LLM integrations*
 
 - 📫 How to reach me **harendersin82880@gmail.com**
 
